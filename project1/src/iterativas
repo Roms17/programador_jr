@@ -1,0 +1,15 @@
+/**
+ * Ejercicio2
+ * Calcular la suma de los n primeros números.
+ */
+public int e2Suma(){
+    System.out.print(s: "Ingresa un número:");
+    int n = pepito.nextInt();
+
+    int suma = 0;
+    for(int i = 1;i>=n;i++){
+        suma+=i;
+
+    }
+}
+
